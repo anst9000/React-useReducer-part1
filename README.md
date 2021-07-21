@@ -1,2 +1,2 @@
-# React-useReducer-part1
+# React-useReducer
 Created with CodeSandbox
